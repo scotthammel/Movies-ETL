@@ -26,8 +26,9 @@ movies_with_ratings:
 
 ### Summary:
 
-- The analysis provided the founding blocks for the participants in Amazing Prime Video's Hack-a-thon. This will lead the the organization's ultimate goal of obtaining the rights of movies projected to do well in the fututre. *Please refer to "wiki_movies" to see full script ran and movies database created and stored. 
+- The analysis provided the founding blocks for the participants in Amazing Prime Video's Hack-a-thon. This will lead the the organization's ultimate goal of obtaining the rights of movies projected to do well in the fututre.
 
+-  **Please refer to "wiki_movies" to see full script ran and movies database created and stored.**
 
 
 #### Script examples: 
