@@ -12,7 +12,7 @@ Wiki_movies Dataframe:
 
 ratings results:
 
-<img width="700" alt="Screen Shot 2021-05-02 at 3 22 30 PM" src="https://user-images.githubusercontent.com/77898345/116826611-7ac3f100-ab5a-11eb-8a61-629bd592c431.png">
+<img width="400" alt="Screen Shot 2021-05-02 at 3 22 30 PM" src="https://user-images.githubusercontent.com/77898345/116826611-7ac3f100-ab5a-11eb-8a61-629bd592c431.png">
 
 movies_df:
 
