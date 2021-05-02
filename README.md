@@ -7,16 +7,20 @@
 ### Results:
 
 Wiki_movies Dataframe:
-<img width="1081" alt="Screen Shot 2021-05-02 at 3 23 04 PM" src="https://user-images.githubusercontent.com/77898345/116826598-6a137b00-ab5a-11eb-8be8-8078f82b2167.png">
+
+<img width="700" alt="Screen Shot 2021-05-02 at 3 23 04 PM" src="https://user-images.githubusercontent.com/77898345/116826598-6a137b00-ab5a-11eb-8be8-8078f82b2167.png">
 
 ratings results:
-<img width="426" alt="Screen Shot 2021-05-02 at 3 22 30 PM" src="https://user-images.githubusercontent.com/77898345/116826611-7ac3f100-ab5a-11eb-8a61-629bd592c431.png">
+
+<img width="700" alt="Screen Shot 2021-05-02 at 3 22 30 PM" src="https://user-images.githubusercontent.com/77898345/116826611-7ac3f100-ab5a-11eb-8a61-629bd592c431.png">
 
 movies_df:
-<img width="1057" alt="Screen Shot 2021-05-02 at 3 21 53 PM" src="https://user-images.githubusercontent.com/77898345/116826615-86171c80-ab5a-11eb-89a2-62224075cdce.png">
+
+<img width="700" alt="Screen Shot 2021-05-02 at 3 21 53 PM" src="https://user-images.githubusercontent.com/77898345/116826615-86171c80-ab5a-11eb-89a2-62224075cdce.png">
 
 movies_with_ratings:
-<img width="1119" alt="Screen Shot 2021-05-02 at 3 21 17 PM" src="https://user-images.githubusercontent.com/77898345/116826625-93340b80-ab5a-11eb-8a92-632293c919a6.png">
+
+<img width="700" alt="Screen Shot 2021-05-02 at 3 21 17 PM" src="https://user-images.githubusercontent.com/77898345/116826625-93340b80-ab5a-11eb-8a92-632293c919a6.png">
 
 
 
